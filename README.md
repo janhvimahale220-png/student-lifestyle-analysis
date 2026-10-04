@@ -30,6 +30,3 @@ Data analysis of student lifestyle factors and their relationship with NEET mock
 
 - **Study Time:** The relationship between self-study hours and mock scores was **not strictly linear**. Students in the third study-time quartile achieved the highest average score of **73.2%**, while the highest-study quartile averaged **70.2%**.
 
-## 📈 Power BI Dashboard
-
-[Add dashboard screenshot here]
