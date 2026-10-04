@@ -12,9 +12,9 @@ Data analysis of student lifestyle factors and their relationship with NEET mock
 ## 🛠️ Tools Used
 
 - Jupyter notebook
-- PostgreSQL
+- pgadmin4
 - Power BI
-- Excel
+- Microsoft Excel
 
 #### 📊 Key Insights
 
