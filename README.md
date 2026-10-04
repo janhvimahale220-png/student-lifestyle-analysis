@@ -1,4 +1,4 @@
-# student-lifestyle-analysis
+# Student Lifestyle Analysis
 Data analysis of student lifestyle factors and their relationship with NEET mock-test performance using Python, PostgreSQL, and Power BI
 
 ## 🎯 Objectives
